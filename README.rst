@@ -3,8 +3,8 @@
 pdftables - a library for extracting tables from PDF files
 ==========================================================
 
-.. image:: https://travis-ci.org/scraperwiki/pdftables.png
-   :target: https://travis-ci.org/scraperwiki/pdftables
+.. image:: https://travis-ci.org/okfn/pdftables.png
+   :target: https://travis-ci.org/okfn/pdftables
 .. image:: https://pypip.in/v/pdftables/badge.png
    :target: https://pypi.python.org/pypi/pdftables
 
