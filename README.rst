@@ -110,6 +110,9 @@ Files and folders::
 contains PDF files which are installed from a different repository by running
 the ``download_test_data.sh`` script.
 
+    The fixtures are currently unavailable as they are held on 
+    a private repository
+
 We're also using data from http://www.tamirhassan.com/competition/dataset-tools.html which is also installed by the download script.
 
 *pdftables* contains the core code files
