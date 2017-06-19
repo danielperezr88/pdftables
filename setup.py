@@ -26,7 +26,7 @@ conf = dict(name='pdftables',
     include_package_data=False,
     zip_safe=False,
     install_requires=[
-        'pdfminer>=20110515',
+        'pdfminer.six>=20110515',
         'docopt>=0.6',
     ],
     tests_require=[],
