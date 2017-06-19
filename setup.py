@@ -27,7 +27,7 @@ setup(
     include_package_data=False,
     zip_safe=False,
     install_requires=[
-        'pdfminer>=20110515',
+        'pdfminer.six>=20110515',
     ],
     tests_require=[],
     entry_points=\
